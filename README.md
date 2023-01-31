@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oguzkaan12
 - 👀 I’m interested in race cars, automation and artificial intelligence 
-- 🌱 I’m currently learning pyhton, MAATLAB and blender
+- 🌱 I’m currently learning pyhton, MATLAB, C# and blender
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - oguzkaan464@gmail.com
 
